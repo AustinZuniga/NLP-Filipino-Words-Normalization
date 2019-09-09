@@ -10,7 +10,7 @@ double metaphone algorithm will also be used to generate candidate words. All wo
 A Recurrent Neural Network language model will be used to select the best word from the confusion set.
 
 ## Screenshot 
-![alt text](img/interface.png)
+![alt text](/interface.png)
 
 ## Modules Used:
 	wxWidget 3.1.2 
